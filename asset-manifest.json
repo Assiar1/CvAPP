@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CvAPP/static/css/main.209679c4.css",
+    "main.js": "/CvAPP/static/js/main.a071fcbe.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CvAPP/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg.png": "/CvAPP/static/media/bg.9fe7f18798cf7a4b4a18.png",
+    "static/media/img2.jpg": "/CvAPP/static/media/img2.66794528709bde4f3686.jpg",
+    "index.html": "/CvAPP/index.html",
+    "main.209679c4.css.map": "/CvAPP/static/css/main.209679c4.css.map",
+    "main.a071fcbe.js.map": "/CvAPP/static/js/main.a071fcbe.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CvAPP/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209679c4.css",
+    "static/js/main.a071fcbe.js"
+  ]
+}
